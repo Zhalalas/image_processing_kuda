@@ -1,0 +1,10 @@
+[submodule "external/opencv"]
+	path = external/opencv
+	url = https://github.com/opencv/opencv
+[submodule "external/json"]
+	path = external/json
+	url = https://github.com/nlohmann/json
+[submodule "external/opencv_contrib"]
+	path = external/opencv_contrib
+	url = https://github.com/opencv/opencv_contrib.git
+

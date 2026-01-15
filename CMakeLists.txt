@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.10.0)
 
-find_package(OpenCV REQUIRED)
+add_subdirectory(external/opencv)
+add_subdirectory(external/json)
 
 project(ImageProcessingCPP VERSION 0.1.0 LANGUAGES C CXX)
 
