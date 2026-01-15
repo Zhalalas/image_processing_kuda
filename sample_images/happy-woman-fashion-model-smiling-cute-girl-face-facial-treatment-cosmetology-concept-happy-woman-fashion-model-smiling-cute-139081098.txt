@@ -1,0 +1,26 @@
+{
+  "image_path": "happy-woman-fashion-model-smiling-cute-girl-face-facial-treatment-cosmetology-concept-happy-woman-fashion-model-smiling-cute-139081098.png",
+  "num_detections": 1,
+  "detections": [
+    {
+      "box": [
+        309.765625,
+        105.0,
+        513.984375,
+        362.5
+      ],
+      "landmarks": [
+        384.0625,
+        196.5625,
+        478.4375,
+        210.0,
+        435.0,
+        260.9375,
+        374.6875,
+        283.75,
+        459.6875,
+        295.3125
+      ]
+    }
+  ]
+}

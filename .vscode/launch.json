@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug ImageProcessingCPP",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/ImageProcessingCPP",
+            "args": ["sample_images/Richard_Pryor_The_Midnight_Show_in_April_1974.png"],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb"
+        }
+    ]
+}

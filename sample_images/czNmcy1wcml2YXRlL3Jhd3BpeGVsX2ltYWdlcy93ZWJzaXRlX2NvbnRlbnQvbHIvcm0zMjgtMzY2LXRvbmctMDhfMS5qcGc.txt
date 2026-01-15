@@ -1,0 +1,26 @@
+{
+  "image_path": "czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zMjgtMzY2LXRvbmctMDhfMS5qcGc.jpg",
+  "num_detections": 1,
+  "detections": [
+    {
+      "box": [
+        342.87109375,
+        115.4296875,
+        601.66015625,
+        473.6328125
+      ],
+      "landmarks": [
+        410.15625,
+        266.015625,
+        526.5625,
+        245.3125,
+        482.03125,
+        327.34375,
+        442.578125,
+        371.875,
+        546.09375,
+        353.515625
+      ]
+    }
+  ]
+}
